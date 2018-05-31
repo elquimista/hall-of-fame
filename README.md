@@ -13,3 +13,17 @@
 :---------------------:|:-------------------:|:-----------------------:|:-----------------:
 **Peter Schmeichel**   | **Fabien Barthez**  | **Edwin van der Sar**   | **David de Gea**
 1991-1999              | 2000-2004           | 2005-2011               | 2011-
+
+## Center-backs
+
+![](cb/bruce.png) | ![](cb/pallister.png) |
+:----------------:|:---------------------:|
+**Steve Bruce**   | **Gary Pallister**    |
+1987-1996         | 1989-1998             |
+
+## Full-backs
+
+![](fb/irwin.png) |
+:----------------:|
+**Denis Irwin**   |
+1990-2002         |
