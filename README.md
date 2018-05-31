@@ -27,3 +27,24 @@
 :----------------:|
 **Denis Irwin**   |
 1990-2002         |
+
+## Midfielders
+
+![](mf/giggs.png) | ![](mf/paul-ince.png) | ![](mf/bryan-robson.png) |
+:----------------:|:---------------------:|:------------------------:|
+**Ryan Giggs**    | **Paul Ince**         | **Bryan Robson**         |
+1990-2014         | 1989-1995             | 1981-1994                |
+
+## Wingers
+
+![](wingers/george-best.png) | ![](wingers/kanchelskis.png) |
+:---------------------------:|:----------------------------:|
+**George Best**              | **Andrei Kanchelskis**       |
+1963-1974                    | 1991-1995                    |
+
+## Forwards
+
+![](fw/bobby-charlton.png) | ![](fw/mark-hughes.png) | ![](fw/brian-mcclair.png) | ![](fw/cantona.png) |
+:-------------------------:|:-----------------------:|:-------------------------:|:-------------------:|
+**Sir Bobby Charlton**     | **Mark Hughes**         | **Brian McClair**         | **Eric Cantona**    |
+1956-1973                  | 1980-1986, 1988-1995    | 1987-1998                 | 1992-1997           |
