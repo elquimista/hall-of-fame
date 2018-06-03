@@ -30,17 +30,20 @@
 
 ## Midfielders
 
-![](mf/giggs.png) | ![](mf/paul-ince.png) | ![](mf/bryan-robson.png) | ![](mf/roy-keane.png) |
-:----------------:|:---------------------:|:------------------------:|:---------------------:|
-**Ryan Giggs**    | **Paul Ince**         | **Bryan Robson**         | **Roy Keane**         |
-1990-2014         | 1989-1995             | 1981-1994                | 1993-2005             |
+![](mf/giggs.png)    | ![](mf/paul-ince.png) | ![](mf/bryan-robson.png) | ![](mf/roy-keane.png) |
+:-------------------:|:---------------------:|:------------------------:|:---------------------:|
+**Ryan Giggs**       | **Paul Ince**         | **Bryan Robson**         | **Roy Keane**         |
+1990-2014            | 1989-1995             | 1981-1994                | 1993-2005             |
+![](mf/scholes.png)  | ![](mf/beckham.png)   |
+**Paul Scholes**     | **David Beckham**     |
+1993-2011, 2012-2013 | 1992-2003             |
 
 ## Wingers
 
-![](wingers/george-best.png) | ![](wingers/kanchelskis.png) |
-:---------------------------:|:----------------------------:|
-**George Best**              | **Andrei Kanchelskis**       |
-1963-1974                    | 1991-1995                    |
+![](wingers/george-best.png) | ![](wingers/kanchelskis.png) | ![](wingers/poborsky.png) |
+:---------------------------:|:----------------------------:|:-------------------------:|
+**George Best**              | **Andrei Kanchelskis**       | **Karel Poborsky**        |
+1963-1974                    | 1991-1995                    | 1996-1998                 |
 
 ## Forwards
 
@@ -48,6 +51,6 @@
 :-------------------------:|:-----------------------:|:-------------------------:|:-------------------:|
 **Sir Bobby Charlton**     | **Mark Hughes**         | **Brian McClair**         | **Eric Cantona**    |
 1956-1973                  | 1980-1986, 1988-1995    | 1987-1998                 | 1992-1997           |
-![](fw/andy-cole.png)      |
-**Andy Cole**              |
-1995-2001                  |
+![](fw/andy-cole.png)      | ![](fw/solskjaer.png)   |
+**Andy Cole**              | **Ole Gunnar Solskjær** |
+1995-2001                  | 1996-2007               |
