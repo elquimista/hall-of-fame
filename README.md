@@ -43,10 +43,10 @@
 
 ## Wingers
 
-![](wingers/george-best.png) | ![](wingers/kanchelskis.png) | ![](wingers/poborsky.png)
-:---------------------------:|:----------------------------:|:------------------------:
-**George Best**              | **Andrei Kanchelskis**       | **Karel Poborsky**
-1963-1974                    | 1991-1995                    | 1996-1998
+![](wingers/george-best.png) | ![](wingers/kanchelskis.png) | ![](wingers/poborsky.png) | ![](wingers/ronaldo.png)
+:---------------------------:|:----------------------------:|:-------------------------:|:-----------------------:
+**George Best**              | **Andrei Kanchelskis**       | **Karel Poborsky**        | **Cristiano Ronaldo**
+1963-1974                    | 1991-1995                    | 1996-1998                 | 2003-2009
 
 ## Forwards
 
