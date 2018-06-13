@@ -26,10 +26,10 @@
 
 ## Full-backs
 
-![](fb/irwin.png) | ![](fb/gary-neville.png) | ![](fb/o-shea.png)
-:----------------:|:------------------------:|:-----------------:
-**Denis Irwin**   | **Gary Neville**         | **John O'Shea**
-1990-2002         | 1992-2011                | 1999-2011
+![](fb/irwin.png) | ![](fb/gary-neville.png) | ![](fb/o-shea.png) | ![](fb/heinze.png)
+:----------------:|:------------------------:|:------------------:|:-----------------:
+**Denis Irwin**   | **Gary Neville**         | **John O'Shea**    | **Gabriel Heinze**
+1990-2002         | 1992-2011                | 1999-2011          | 2004-2007
 
 ## Midfielders
 
