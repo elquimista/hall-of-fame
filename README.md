@@ -69,6 +69,6 @@
 ![](fw/andy-cole.png)      | ![](fw/solskjaer.png)   | ![](fw/sheringham.png)    | ![](fw/yorke.png)
 **Andy Cole**              | **Ole Gunnar Solskjær** | **Teddy Sheringham**      | **Dwight Yorke**
 1995-2001                  | 1996-2007               | 1997-2001                 | 1998-2002
-![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/rooney.png)
-**Ruud van Nistelrooy**    | **Diego Forlán**        | **Wayne Rooney**
-2001-2006                  | 2002-2004               | 2004-2017
+![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/rooney.png)        | ![](fw/tevez.png)
+**Ruud van Nistelrooy**    | **Diego Forlán**        | **Wayne Rooney**          | **Carlos Tevez**
+2001-2006                  | 2002-2004               | 2004-2017                 | 2007-2009
