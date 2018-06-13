@@ -16,10 +16,13 @@
 
 ## Center-backs
 
-![](cb/bruce.png) | ![](cb/pallister.png) | ![](cb/stam.png) | ![](cb/silvestre.png)
-:----------------:|:---------------------:|:----------------:|:--------------------:
-**Steve Bruce**   | **Gary Pallister**    | **Jaap Stam**    | **Mikaël Silvestre**
-1987-1996         | 1989-1998             | 1998-2001        | 1999-2008
+![](cb/bruce.png)   | ![](cb/pallister.png) | ![](cb/stam.png) | ![](cb/silvestre.png)
+:------------------:|:---------------------:|:----------------:|:--------------------:
+**Steve Bruce**     | **Gary Pallister**    | **Jaap Stam**    | **Mikaël Silvestre**
+1987-1996           | 1989-1998             | 1998-2001        | 1999-2008
+![](cb/johnsen.png)
+**Ronny Johnsen**
+1996-2002
 
 ## Full-backs
 
