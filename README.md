@@ -20,9 +20,9 @@
 :------------------:|:---------------------:|:----------------:|:--------------------:
 **Steve Bruce**     | **Gary Pallister**    | **Jaap Stam**    | **Mikaël Silvestre**
 1987-1996           | 1989-1998             | 1998-2001        | 1999-2008
-![](cb/johnsen.png)
-**Ronny Johnsen**
-1996-2002
+![](cb/johnsen.png) | ![](cb/blanc.png)
+**Ronny Johnsen**   | **Laurent Blanc**
+1996-2002           | 2001-2003
 
 ## Full-backs
 
