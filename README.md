@@ -51,6 +51,6 @@
 :-------------------------:|:-----------------------:|:-------------------------:|:------------------:
 **Sir Bobby Charlton**     | **Mark Hughes**         | **Brian McClair**         | **Eric Cantona**
 1956-1973                  | 1980-1986, 1988-1995    | 1987-1998                 | 1992-1997
-![](fw/andy-cole.png)      | ![](fw/solskjaer.png)   | ![](fw/sheringham.png)
-**Andy Cole**              | **Ole Gunnar Solskjær** | **Teddy Sheringham**
-1995-2001                  | 1996-2007               | 1997-2001
+![](fw/andy-cole.png)      | ![](fw/solskjaer.png)   | ![](fw/sheringham.png)    | ![](fw/yorke.png)
+**Andy Cole**              | **Ole Gunnar Solskjær** | **Teddy Sheringham**      | **Dwight Yorke**
+1995-2001                  | 1996-2007               | 1997-2001                 | 1998-2002
