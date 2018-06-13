@@ -16,10 +16,10 @@
 
 ## Center-backs
 
-![](cb/bruce.png) | ![](cb/pallister.png) |
-:----------------:|:---------------------:|
-**Steve Bruce**   | **Gary Pallister**    |
-1987-1996         | 1989-1998             |
+![](cb/bruce.png) | ![](cb/pallister.png) | ![](cb/stam.png)
+:----------------:|:---------------------:|:----------------:
+**Steve Bruce**   | **Gary Pallister**    | **Jaap Stam**
+1987-1996         | 1989-1998             | 1998-2001
 
 ## Full-backs
 
