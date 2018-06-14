@@ -56,9 +56,9 @@
 :---------------------------:|:----------------------------:|:-------------------------:|:-----------------------:
 **George Best**              | **Andrei Kanchelskis**       | **Karel Poborsky**        | **Cristiano Ronaldo**
 1963-1974                    | 1991-1995                    | 1996-1998                 | 2003-2009
-![](wingers/nani.png)        | ![](wingers/valencia.png)
-**Luís Nani**                | **Antonio Valencia**
-2007-2015                    | 2009-
+![](wingers/nani.png)        | ![](wingers/valencia.png)    | ![](wingers/young.png)
+**Luís Nani**                | **Antonio Valencia**         | **Ashley Young**
+2007-2015                    | 2009-                        | 2011-
 
 ## Forwards
 
