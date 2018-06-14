@@ -72,6 +72,6 @@
 ![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/rooney.png)        | ![](fw/tevez.png)
 **Ruud van Nistelrooy**    | **Diego Forlán**        | **Wayne Rooney**          | **Carlos Tevez**
 2001-2006                  | 2002-2004               | 2004-2017                 | 2007-2009
-![](fw/berbatov.png)       | ![](fw/owen.png)
-**Dimitar Berbatov**       | **Michael Owen**
-2008-2012                  | 2009-2012
+![](fw/berbatov.png)       | ![](fw/owen.png)        | ![](fw/chicharito.png)
+**Dimitar Berbatov**       | **Michael Owen**        | **Javier Hernández**
+2008-2012                  | 2009-2012               | 2010-2015
