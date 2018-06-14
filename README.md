@@ -81,3 +81,6 @@
 ![](fw/berbatov.png)       | ![](fw/owen.png)        | ![](fw/chicharito.png)    | ![](fw/van-persie.png)
 **Dimitar Berbatov**       | **Michael Owen**        | **Javier Hernández**      | **Robin van Persie**
 2008-2012                  | 2009-2012               | 2010-2015                 | 2012-2015
+![](fw/martial.png)
+**Anthony Martial**
+2015-
