@@ -62,9 +62,9 @@
 ![](wingers/nani.png)          | ![](wingers/valencia.png)    | ![](wingers/young.png)    | ![](wingers/di-maria.png)
 **Luís Nani**                  | **Antonio Valencia**         | **Ashley Young**          | **Ángel Di María**
 2007-2015                      | 2009-                        | 2011-                     | 2014-2015
-![](wingers/memphis-depay.png)
-**Memphis Depay**
-2015-2017
+![](wingers/memphis-depay.png) | ![](wingers/lingard.png)
+**Memphis Depay**              | **Jesse Lingard**
+2015-2017                      | 2011-
 
 ## Forwards
 
