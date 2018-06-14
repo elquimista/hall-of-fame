@@ -33,9 +33,9 @@
 :----------------:|:------------------------:|:------------------:|:-----------------:
 **Denis Irwin**   | **Gary Neville**         | **John O'Shea**    | **Gabriel Heinze**
 1990-2002         | 1992-2011                | 1999-2011          | 2004-2007
-![](fb/evra.png)  | ![](fb/rafael.png)
-**Patrice Evra**  | **Rafael da Silva**
-2006-2014         | 2008-2015
+![](fb/evra.png)  | ![](fb/rafael.png)       | ![](fb/darmian.png)
+**Patrice Evra**  | **Rafael da Silva**      | **Matteo Darmian**
+2006-2014         | 2008-2015                | 2015-
 
 ## Midfielders
 
