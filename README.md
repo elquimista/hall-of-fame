@@ -55,13 +55,16 @@
 
 ## Wingers
 
-![](wingers/george-best.png) | ![](wingers/kanchelskis.png) | ![](wingers/poborsky.png) | ![](wingers/ronaldo.png)
-:---------------------------:|:----------------------------:|:-------------------------:|:-----------------------:
-**George Best**              | **Andrei Kanchelskis**       | **Karel Poborsky**        | **Cristiano Ronaldo**
-1963-1974                    | 1991-1995                    | 1996-1998                 | 2003-2009
-![](wingers/nani.png)        | ![](wingers/valencia.png)    | ![](wingers/young.png)    | ![](wingers/di-maria.png)
-**Luís Nani**                | **Antonio Valencia**         | **Ashley Young**          | **Ángel Di María**
-2007-2015                    | 2009-                        | 2011-                     | 2014-2015
+![](wingers/george-best.png)   | ![](wingers/kanchelskis.png) | ![](wingers/poborsky.png) | ![](wingers/ronaldo.png)
+:-----------------------------:|:----------------------------:|:-------------------------:|:-----------------------:
+**George Best**                | **Andrei Kanchelskis**       | **Karel Poborsky**        | **Cristiano Ronaldo**
+1963-1974                      | 1991-1995                    | 1996-1998                 | 2003-2009
+![](wingers/nani.png)          | ![](wingers/valencia.png)    | ![](wingers/young.png)    | ![](wingers/di-maria.png)
+**Luís Nani**                  | **Antonio Valencia**         | **Ashley Young**          | **Ángel Di María**
+2007-2015                      | 2009-                        | 2011-                     | 2014-2015
+![](wingers/memphis-depay.png)
+**Memphis Depay**
+2015-2017
 
 ## Forwards
 
