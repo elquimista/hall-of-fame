@@ -2,10 +2,10 @@
 
 ## Managers
 
-![](managers/matt-busby.png) | ![](managers/alex-ferguson.png)
-:---------------------------:|:------------------------------:
-**Sir Matt Busby**           | **Sir Alex Ferguson**
-1945-1969, 1970-1971         | 1986-2013
+![](managers/matt-busby.png) | ![](managers/alex-ferguson.png) | ![](managers/mourinho.png)
+:---------------------------:|:-------------------------------:|:-------------------------:
+**Sir Matt Busby**           | **Sir Alex Ferguson**           | **José Mourinho**
+1945-1969, 1970-1971         | 1986-2013                       | 2016-
 
 ## Goalkeepers
 
