@@ -2,10 +2,10 @@
 
 ## Managers
 
-![](managers/matt-busby.png) | ![](managers/alex-ferguson.png) | ![](managers/mourinho.png)
-:---------------------------:|:-------------------------------:|:-------------------------:
-**Sir Matt Busby**           | **Sir Alex Ferguson**           | **José Mourinho**
-1945-1969, 1970-1971         | 1986-2013                       | 2016-
+![](managers/matt-busby.png) | ![](managers/alex-ferguson.png) | ![](managers/mourinho.png) | ![](managers/solskjaer.png)
+:---------------------------:|:-------------------------------:|:--------------------------:|:-------------------------:
+**Sir Matt Busby**           | **Sir Alex Ferguson**           | **José Mourinho**          | **Ole Gunnar Solskjær**
+1945-1969, 1970-1971         | 1986-2013                       | 2016-2018                  | 2018-
 
 ## Goalkeepers
 
