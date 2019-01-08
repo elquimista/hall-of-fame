@@ -23,9 +23,9 @@
 ![](cb/johnsen.png) | ![](cb/blanc.png)     | ![](cb/ferdinand.png) | ![](cb/wes-brown.png)
 **Ronny Johnsen**   | **Laurent Blanc**     | **Rio Ferdinand**     | **Wes Brown**
 1996-2002           | 2001-2003             | 2002-2014             | 1996-2011
-![](cb/vidic.png)   | ![](cb/smalling.png)  | ![](cb/bailly.png)
-**Nemanja Vidić**   | **Chris Smalling**    | **Eric Bailly**
-2006-2014           | 2010-                 | 2016-
+![](cb/vidic.png)   | ![](cb/smalling.png)  | ![](cb/bailly.png)    | ![](cb/lindelof.png)
+**Nemanja Vidić**   | **Chris Smalling**    | **Eric Bailly**       | **Victor Lindelöf**
+2006-2014           | 2010-                 | 2016-                 | 2017-
 
 ## Full-backs
 
