@@ -40,9 +40,9 @@
 :----------------:|:------------------------:|:------------------:|:-----------------:
 **Denis Irwin**   | **Gary Neville**         | **John O'Shea**    | **Gabriel Heinze**
 1990-2002         | 1992-2011                | 1999-2011          | 2004-2007
-![](fb/evra.png)  | ![](fb/rafael.png)       | ![](fb/shaw.png)   | ![](fb/darmian.png)
-**Patrice Evra**  | **Rafael da Silva**      | **Luke Shaw**      | **Matteo Darmian**
-2006-2014         | 2008-2015                | 2014-              | 2015-
+![](fb/evra.png)  | ![](fb/rafael.png)       | ![](fb/shaw.png)
+**Patrice Evra**  | **Rafael da Silva**      | **Luke Shaw**
+2006-2014         | 2008-2015                | 2014-
 
 ## Midfielders
 
@@ -88,9 +88,9 @@
 ![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/rooney.png)        | ![](fw/tevez.png)
 **Ruud van Nistelrooy**    | **Diego Forlán**        | **Wayne Rooney**          | **Carlos Tevez**
 2001-2006                  | 2002-2004               | 2004-2017                 | 2007-2009
-![](fw/berbatov.png)       | ![](fw/owen.png)        | ![](fw/chicharito.png)    | ![](fw/van-persie.png)
-**Dimitar Berbatov**       | **Michael Owen**        | **Javier Hernández**      | **Robin van Persie**
-2008-2012                  | 2009-2012               | 2010-2015                 | 2012-2015
-![](fw/rashford.png)       | ![](fw/martial.png)     | ![](fw/ibrahimovic.png)   | ![](fw/lukaku.png)
-**Marcus Rashford**        | **Anthony Martial**     | **Zlatan Ibrahimović**    | **Romelu Lukaku**
-2015-                      | 2015-                   | 2016-2017, 2017-2018      | 2017-
+![](fw/berbatov.png)       | ![](fw/chicharito.png)  | ![](fw/van-persie.png)    | ![](fw/rashford.png)
+**Dimitar Berbatov**       | **Javier Hernández**    | **Robin van Persie**      | **Marcus Rashford**
+2008-2012                  | 2010-2015               | 2012-2015                 | 2015-
+![](fw/martial.png)        | ![](fw/ibrahimovic.png) | ![](fw/lukaku.png)
+**Anthony Martial**        | **Zlatan Ibrahimović**  | **Romelu Lukaku**
+2015-                      | 2016-2018               | 2017-
