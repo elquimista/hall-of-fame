@@ -27,7 +27,7 @@
 **Sergio Romero**
 2015-
 
-## Center-backs
+## Centre-backs
 
 ![](cb/bruce.png)   | ![](cb/pallister.png) | ![](cb/stam.png)      | ![](cb/silvestre.png)
 :------------------:|:---------------------:|:---------------------:|:--------------------:
