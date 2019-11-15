@@ -61,7 +61,7 @@
 2005-2012              | 2006-2018                 | 2007-2015                  | 2007-2011
 ![](mf/mata.png)       | ![](mf/ander-herrera.png) | ![](mf/schweinsteiger.png) | ![](mf/pogba.png)
 **Juan Mata**          | **Ander Herrera**         | **Bastian Schweinsteiger** | **Paul Pogba**
-2014-                  | 2014-                     | 2015-2017                  | 2011-2012, 2016-
+2014-                  | 2014-2019                 | 2015-2017                  | 2011-2012, 2016-
 ![](mf/mkhitaryan.png) | ![](mf/matic.png)         | ![](mf/mctominay.png)
 **Henrikh Mkhitaryan** | **Nemanja Matić**         | **Scott McTominay**
 2016-2018              | 2017-                     | 2017-
@@ -74,7 +74,7 @@
 1963-1974                      | 1991-1995                    | 1996-1998                 | 2003-2009
 ![](wingers/nani.png)          | ![](wingers/valencia.png)    | ![](wingers/young.png)    | ![](wingers/di-maria.png)
 **Luís Nani**                  | **Antonio Valencia**         | **Ashley Young**          | **Ángel Di María**
-2007-2015                      | 2009-                        | 2011-                     | 2014-2015
+2007-2015                      | 2009-2019                    | 2011-                     | 2014-2015
 ![](wingers/memphis-depay.png) | ![](wingers/lingard.png)     | ![](wingers/alexis.png)
 **Memphis Depay**              | **Jesse Lingard**            | **Alexis Sánchez**
 2015-2017                      | 2011-                        | 2018-
@@ -96,4 +96,4 @@
 2008-2012                  | 2010-2015               | 2012-2015                 | 2015-
 ![](fw/martial.png)        | ![](fw/ibrahimovic.png) | ![](fw/lukaku.png)
 **Anthony Martial**        | **Zlatan Ibrahimović**  | **Romelu Lukaku**
-2015-                      | 2016-2018               | 2017-
+2015-                      | 2016-2018               | 2017-2019
