@@ -33,6 +33,9 @@
 ![](cb/vidic.png)   | ![](cb/smalling.png)  | ![](cb/bailly.png)    | ![](cb/lindelof.png)
 **Nemanja Vidić**   | **Chris Smalling**    | **Eric Bailly**       | **Victor Lindelöf**
 2006-2014           | 2010-                 | 2016-                 | 2017-
+![](cb/maguire.png)
+**Harry Maguire**
+2019-
 
 ## Full-backs
 
