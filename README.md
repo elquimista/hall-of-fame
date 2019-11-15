@@ -19,10 +19,13 @@
 
 ## Goalkeepers
 
-![](gk/schmeichel.png) | ![](gk/barthez.png) | ![](gk/van-der-sar.png) | ![](gk/de-gea.png)
-:---------------------:|:-------------------:|:-----------------------:|:-----------------:
-**Peter Schmeichel**   | **Fabien Barthez**  | **Edwin van der Sar**   | **David de Gea**
-1991-1999              | 2000-2004           | 2005-2011               | 2011-
+![](gk/schmeichel.png)    | ![](gk/barthez.png) | ![](gk/van-der-sar.png) | ![](gk/de-gea.png)
+:------------------------:|:-------------------:|:-----------------------:|:-----------------:
+**Peter Schmeichel**      | **Fabien Barthez**  | **Edwin van der Sar**   | **David de Gea**
+1991-1999                 | 2000-2004           | 2005-2011               | 2011-
+![](gk/sergio-romero.png)
+**Sergio Romero**
+2015-
 
 ## Center-backs
 
