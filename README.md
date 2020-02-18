@@ -80,7 +80,7 @@
 1963-1974                      | 1991-1995                    | 1996-1998                 | 2003-2009
 ![](wingers/nani.png)          | ![](wingers/valencia.png)    | ![](wingers/young.png)    | ![](wingers/daniel-james.png)
 **Luís Nani**                  | **Antonio Valencia**         | **Ashley Young**          | **Daniel James**
-2007-2015                      | 2009-2019                    | 2011-                     | 2019-
+2007-2015                      | 2009-2019                    | 2011-2020                 | 2019-
 
 ## Forwards
 
