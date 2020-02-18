@@ -42,35 +42,35 @@
 
 ## Full-backs
 
-![](fb/irwin.png)       | ![](fb/gary-neville.png) | ![](fb/o-shea.png) | ![](fb/heinze.png)
-:----------------------:|:------------------------:|:------------------:|:-----------------:
-**Denis Irwin**         | **Gary Neville**         | **John O'Shea**    | **Gabriel Heinze**
-1990-2002               | 1992-2011                | 1999-2011          | 2004-2007
-![](fb/evra.png)        | ![](fb/rafael.png)       | ![](fb/shaw.png)   | ![](fb/marcos-rojo.png)
-**Patrice Evra**        | **Rafael da Silva**      | **Luke Shaw**      | **Marcos Rojo**
-2006-2014               | 2008-2015                | 2014-              | 2014-
-![](fb/wan-bissaka.png) |
-**Aaron Wan-Bissaka**   |
-2019-                   |
+![](fb/irwin.png)       | ![](fb/gary-neville.png) | ![](fb/phil-neville.png) | ![](fb/o-shea.png)
+:----------------------:|:------------------------:|:------------------------:|:-----------------:
+**Denis Irwin**         | **Gary Neville**         | **Phil Neville**         | **John O'Shea**
+1990-2002               | 1992-2011                | 1994-2005                | 1999-2011
+![](fb/heinze.png)      | ![](fb/evra.png)         | ![](fb/rafael.png)       | ![](fb/shaw.png)
+**Gabriel Heinze**      | **Patrice Evra**         | **Rafael da Silva**      | **Luke Shaw**
+2004-2007               | 2006-2014                | 2008-2015                | 2014-
+![](fb/marcos-rojo.png) | ![](fb/diogo-dalot.png)  | ![](fb/wan-bissaka.png)  | ![](fb/brandon-williams.png)
+**Marcos Rojo**         | **Diogo Dalot**          | **Aaron Wan-Bissaka**    | **Brandon Williams**
+2014-                   | 2018-                    | 2019-                    | 2019-
 
 ## Midfielders
 
-![](mf/giggs.png)      | ![](mf/paul-ince.png)     | ![](mf/bryan-robson.png)   | ![](mf/roy-keane.png)
-:---------------------:|:-------------------------:|:--------------------------:|:--------------------:
-**Ryan Giggs**         | **Paul Ince**             | **Bryan Robson**           | **Roy Keane**
-1990-2014              | 1989-1995                 | 1981-1994                  | 1993-2005
-![](mf/scholes.png)    | ![](mf/beckham.png)       | ![](mf/veron.png)          | ![](mf/fletcher.png)
-**Paul Scholes**       | **David Beckham**         | **Juan Sebastián Verón**   | **Darren Fletcher**
-1993-2011, 2012-2013   | 1992-2003                 | 2001-2003                  | 2003-2015
-![](mf/park.png)       | ![](mf/carrick.png)       | ![](mf/anderson.png)       | ![](mf/hargreaves.png)
-**Park Ji-sung**       | **Michael Carrick**       | **Anderson**               | **Owen Hargreaves**
-2005-2012              | 2006-2018                 | 2007-2015                  | 2007-2011
-![](mf/mata.png)       | ![](mf/ander-herrera.png) | ![](mf/schweinsteiger.png) | ![](mf/matic.png)
-**Juan Mata**          | **Ander Herrera**         | **Bastian Schweinsteiger** | **Nemanja Matić**
-2014-                  | 2014-2019                 | 2015-2017                  | 2017-
-![](mf/mctominay.png)  |
-**Scott McTominay**    |
-2017-                  |
+![](mf/giggs.png)      | ![](mf/paul-ince.png)       | ![](mf/bryan-robson.png)   | ![](mf/roy-keane.png)
+:---------------------:|:---------------------------:|:--------------------------:|:--------------------:
+**Ryan Giggs**         | **Paul Ince**               | **Bryan Robson**           | **Roy Keane**
+1990-2014              | 1989-1995                   | 1981-1994                  | 1993-2005
+![](mf/scholes.png)    | ![](mf/beckham.png)         | ![](mf/veron.png)          | ![](mf/fletcher.png)
+**Paul Scholes**       | **David Beckham**           | **Juan Sebastián Verón**   | **Darren Fletcher**
+1993-2011, 2012-2013   | 1992-2003                   | 2001-2003                  | 2003-2015
+![](mf/park.png)       | ![](mf/carrick.png)         | ![](mf/anderson.png)       | ![](mf/hargreaves.png)
+**Park Ji-sung**       | **Michael Carrick**         | **Anderson**               | **Owen Hargreaves**
+2005-2012              | 2006-2018                   | 2007-2015                  | 2007-2011
+![](mf/mata.png)       | ![](mf/ander-herrera.png)   | ![](mf/schweinsteiger.png) | ![](mf/matic.png)
+**Juan Mata**          | **Ander Herrera**           | **Bastian Schweinsteiger** | **Nemanja Matić**
+2014-                  | 2014-2019                   | 2015-2017                  | 2017-
+![](mf/mctominay.png)  | ![](mf/bruno-fernandes.png) |
+**Scott McTominay**    | **Bruno Fernandes**         |
+2017-                  | 2020-                       |
 
 ## Wingers
 
@@ -91,12 +91,12 @@
 ![](fw/andy-cole.png)      | ![](fw/solskjaer.png)   | ![](fw/sheringham.png)    | ![](fw/yorke.png)
 **Andy Cole**              | **Ole Gunnar Solskjær** | **Teddy Sheringham**      | **Dwight Yorke**
 1995-2001                  | 1996-2007               | 1997-2001                 | 1998-2002
-![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/rooney.png)        | ![](fw/berbatov.png)
-**Ruud van Nistelrooy**    | **Diego Forlán**        | **Wayne Rooney**          | **Dimitar Berbatov**
-2001-2006                  | 2002-2004               | 2004-2017                 | 2008-2012
-![](fw/chicharito.png)     | ![](fw/van-persie.png)  | ![](fw/rashford.png)      | ![](fw/martial.png)
-**Javier Hernández**       | **Robin van Persie**    | **Marcus Rashford**       | **Anthony Martial**
-2010-2015                  | 2012-2015               | 2015-                     | 2015-
-![](fw/lukaku.png)         |
-**Romelu Lukaku**          |
-2017-2019                  |
+![](fw/van-nistelrooy.png) | ![](fw/forlan.png)      | ![](fw/saha.png)          | ![](fw/alan-smith.png)
+**Ruud van Nistelrooy**    | **Diego Forlán**        | **Louis Saha**            | **Alan Smith**
+2001-2006                  | 2002-2004               | 2004-2008                 | 2004-2007
+![](fw/rooney.png)         | ![](fw/berbatov.png)    | ![](fw/chicharito.png)    | ![](fw/van-persie.png)
+**Wayne Rooney**           | **Dimitar Berbatov**    | **Javier Hernández**      | **Robin van Persie**
+2004-2017                  | 2008-2012               | 2010-2015                 | 2012-2015
+![](fw/rashford.png)       | ![](fw/martial.png)     | ![](fw/lukaku.png)        |
+**Marcus Rashford**        | **Anthony Martial**     | **Romelu Lukaku**         |
+2015-                      | 2015-                   | 2017-2019                 |
