@@ -13,9 +13,9 @@
 :---------------------------:|:------------------------:|:----------------------------:|:-----------------------:
 **Mike Phelan**              | **Carlos Queiroz**       | **René Meulensteen**         | **Michael Carrick**
 2001-2008, 2008-2013, 2018-  | 2002-2003, 2004-2008     | 2007-2013                    | 2018-
-![](coaches/mckenna.png)
-**Kieran McKenna**
-2018-
+![](coaches/mckenna.png)     |
+**Kieran McKenna**           |
+2018-                        |
 
 ## Goalkeepers
 
@@ -23,9 +23,9 @@
 :------------------------:|:-------------------:|:-----------------------:|:-----------------:
 **Peter Schmeichel**      | **Fabien Barthez**  | **Edwin van der Sar**   | **David de Gea**
 1991-1999                 | 2000-2004           | 2005-2011               | 2011-
-![](gk/sergio-romero.png)
-**Sergio Romero**
-2015-
+![](gk/sergio-romero.png) |
+**Sergio Romero**         |
+2015-                     |
 
 ## Centre-backs
 
@@ -39,9 +39,9 @@
 ![](cb/vidic.png)   | ![](cb/smalling.png)  | ![](cb/bailly.png)    | ![](cb/lindelof.png)
 **Nemanja Vidić**   | **Chris Smalling**    | **Eric Bailly**       | **Victor Lindelöf**
 2006-2014           | 2010-                 | 2016-                 | 2017-
-![](cb/maguire.png)
-**Harry Maguire**
-2019-
+![](cb/maguire.png) |
+**Harry Maguire**   |
+2019-               |
 
 ## Full-backs
 
@@ -52,9 +52,9 @@
 ![](fb/evra.png)        | ![](fb/rafael.png)       | ![](fb/shaw.png)   | ![](fb/marcos-rojo.png)
 **Patrice Evra**        | **Rafael da Silva**      | **Luke Shaw**      | **Marcos Rojo**
 2006-2014               | 2008-2015                | 2014-              | 2014-
-![](fb/wan-bissaka.png)
-**Aaron Wan-Bissaka**
-2019-
+![](fb/wan-bissaka.png) |
+**Aaron Wan-Bissaka**   |
+2019-                   |
 
 ## Midfielders
 
@@ -71,9 +71,9 @@
 ![](mf/mata.png)       | ![](mf/ander-herrera.png) | ![](mf/schweinsteiger.png) | ![](mf/pogba.png)
 **Juan Mata**          | **Ander Herrera**         | **Bastian Schweinsteiger** | **Paul Pogba**
 2014-                  | 2014-2019                 | 2015-2017                  | 2011-2012, 2016-
-![](mf/mkhitaryan.png) | ![](mf/matic.png)         | ![](mf/mctominay.png)
-**Henrikh Mkhitaryan** | **Nemanja Matić**         | **Scott McTominay**
-2016-2018              | 2017-                     | 2017-
+![](mf/mkhitaryan.png) | ![](mf/matic.png)         | ![](mf/mctominay.png)      |
+**Henrikh Mkhitaryan** | **Nemanja Matić**         | **Scott McTominay**        |
+2016-2018              | 2017-                     | 2017-                      |
 
 ## Wingers
 
@@ -100,6 +100,6 @@
 ![](fw/berbatov.png)       | ![](fw/chicharito.png)  | ![](fw/van-persie.png)    | ![](fw/rashford.png)
 **Dimitar Berbatov**       | **Javier Hernández**    | **Robin van Persie**      | **Marcus Rashford**
 2008-2012                  | 2010-2015               | 2012-2015                 | 2015-
-![](fw/martial.png)        | ![](fw/ibrahimovic.png) | ![](fw/lukaku.png)
-**Anthony Martial**        | **Zlatan Ibrahimović**  | **Romelu Lukaku**
-2015-                      | 2016-2018               | 2017-2019
+![](fw/martial.png)        | ![](fw/ibrahimovic.png) | ![](fw/lukaku.png)        |
+**Anthony Martial**        | **Zlatan Ibrahimović**  | **Romelu Lukaku**         |
+2015-                      | 2016-2018               | 2017-2019                 |
